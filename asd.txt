@@ -3,3 +3,5 @@ zmena2
 zmena2
 zmena2
 1
+zmena1 fero2
+2
